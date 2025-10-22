@@ -128,6 +128,7 @@ El script se compone de cinco módulos principales:
     la juega parque
 
 **Salida:**
+
     Resultado:
     La frase NO pertenece al lenguaje.
     Tiempo de ejecución: 0.000112 segundos
