@@ -1,0 +1,18 @@
+S -> NP VP
+NP -> Det N | Det N PP | N
+VP -> V NP | V NP PP | V | V PP
+PP -> P NP
+
+# Determinantes
+Det -> el | la | un | una
+
+# Sustantivos
+N -> niño | niña | perro | gato | manzana | agua | cuchara | parque
+
+# Verbos
+V -> come | bebe | corre | juega | ve
+
+# Preposiciones
+P -> con | en
+
+
